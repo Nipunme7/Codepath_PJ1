@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Business Tips Listicle
 
 A beautiful, modern web application showcasing essential business strategies for entrepreneurs and business leaders.
@@ -129,3 +130,6 @@ Created as part of Codepath WEB103 Week 1 Project - Listicle Part 1
 ---
 
 **Built with ❤️ for entrepreneurs and business leaders**
+=======
+# Codepath_PJ1
+>>>>>>> a6a3a3c5cd9d26133f399f5bf49a59b2fa29d212
