@@ -1,135 +1,58 @@
-<<<<<<< HEAD
-# 🚀 Business Tips Listicle
+# WEB103 Project 1 - *Bussienly*
 
-A beautiful, modern web application showcasing essential business strategies for entrepreneurs and business leaders.
+Submitted by: **Nipun Yonjan**
 
-## ✨ Features
+About this web app: **assignment 1**
 
-- **Modern Design**: Clean, professional UI with gradient backgrounds and smooth animations
-- **Responsive Layout**: Works perfectly on desktop, tablet, and mobile devices
-- **Interactive Cards**: Hover effects and smooth transitions
-- **Professional Images**: High-quality business imagery from Unsplash
-- **Detail Views**: Click any tip to see comprehensive information
-- **404 Handling**: Beautiful error page for invalid routes
-- **Loading States**: Smooth loading animations for better UX
+Time spent: **4** hours
 
-## 🎯 Business Tips Included
+## Required Features
 
-1. **💰 Startup Funding Strategies** - Master venture capital, angel investors, and crowdfunding
-2. **📈 Digital Marketing Mastery** - Learn SEO, social media, and paid advertising
-3. **👥 Building High-Performance Teams** - Recruit and manage successful teams
-4. **🔍 Customer Validation Techniques** - Validate business ideas with real customers
-5. **📊 Financial Planning for Entrepreneurs** - Cash flow management and forecasting
-6. **⚡ Agile Product Development** - Implement agile methodologies for faster development
-7. **💼 Sales Funnel Optimization** - Build converting sales funnels
+The following **required** functionality is completed:
 
-## 🛠️ Tech Stack
+<!-- Make sure to check off completed functionality below -->
+- [x] **The web app uses only HTML, CSS, and JavaScript without a frontend framework**
+- [x] **The web app displays a title**
+- [x] **The web app displays at least five unique list items, each with at least three displayed attributes (such as title, text, and image)**
+- [x] **The user can click on each item in the list to see a detailed view of it, including all database fields**
+  - [x] **Each detail view should be a unique endpoint, such as as `localhost:3000/bosses/crystalguardian` and `localhost:3000/mantislords`**
+  - [x] *Note: When showing this feature in the video walkthrough, please show the unique URL for each detailed view. We will not be able to give points if we cannot see the implementation* 
+- [x] **The web app serves an appropriate 404 page when no matching route is defined**
+- [x] **The web app is styled using Picocss**
 
-- **Backend**: Node.js + Express.js
-- **Frontend**: HTML5, CSS3, Vanilla JavaScript
-- **Styling**: Picocss + Custom CSS
-- **Images**: Unsplash API
-- **Architecture**: RESTful API design
+The following **optional** features are implemented:
 
-## 🚀 Getting Started
+- [x] The web app displays items in a unique format, such as cards rather than lists or animated list items
 
-### Prerequisites
-- Node.js (v14 or higher)
-- npm
+The following **additional** features are implemented:
 
-### Installation
+- [ ] List anything else that you added to improve the site's functionality!
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/business-tips-listicle.git
-cd business-tips-listicle
-```
+## Video Walkthrough
 
-2. Install dependencies:
-```bash
-npm install
-```
+**Note: please be sure to 
 
-3. Start the server:
-```bash
-npm start
-```
+Here's a walkthrough of implemented required features:
 
-4. Open your browser and visit:
-```
-http://localhost:3000
-```
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-## 📁 Project Structure
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with ...  Add GIF tool here
+<!-- Recommended tools:
+[Kap](https://getkap.co/) for macOS
+[ScreenToGif](https://www.screentogif.com/) for Windows
+[peek](https://github.com/phw/peek) for Linux. -->
 
-```
-business-tips-listicle/
-├── server.js              # Express server and API routes
-├── package.json           # Dependencies and scripts
-├── views/                 # HTML templates
-│   ├── index.html        # Main page with tip cards
-│   ├── detail.html       # Individual tip detail pages
-│   └── 404.html          # Error page
-├── public/               # Static assets
-│   ├── css/              # Custom stylesheets
-│   ├── js/               # JavaScript files
-│   └── images/           # Local images
-└── README.md             # This file
-```
+## Notes
 
-## 🎨 Design Features
+Describe any challenges encountered while building the app or any additional context you'd like to add.
 
-- **Gradient Backgrounds**: Beautiful purple-blue gradients
-- **Card Layout**: Modern card-based design with shadows
-- **Smooth Animations**: Hover effects and loading transitions
-- **Professional Typography**: Inter font family
-- **Color-coded Badges**: Category, difficulty, and time indicators
-- **Mobile-First**: Responsive design for all devices
+## License
 
-## 🔗 API Endpoints
+Copyright [yyyy] [name of copyright owner]
 
-- `GET /` - Main page
-- `GET /tips/:id` - Individual tip detail page
-- `GET /api/tips` - JSON API for all tips
-- `GET /api/tips/:id` - JSON API for specific tip
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
-## 📱 Screenshots
+> http://www.apache.org/licenses/LICENSE-2.0
 
-### Main Page
-![Main Page](https://via.placeholder.com/800x400/667eea/ffffff?text=Business+Tips+Main+Page)
-
-### Detail Page
-![Detail Page](https://via.placeholder.com/800x400/764ba2/ffffff?text=Business+Tip+Detail+Page)
-
-## 🎯 Project Requirements Met
-
-- ✅ Express.js web server
-- ✅ HTML/CSS/JavaScript only (no frontend framework)
-- ✅ Picocss styling
-- ✅ At least 5 list items with 3+ attributes each
-- ✅ Clickable items with unique detail pages
-- ✅ Proper 404 error handling
-- ✅ Professional design and user experience
-
-## 🚀 Deployment
-
-This app is ready for deployment on platforms like:
-- Heroku
-- Railway
-- Vercel
-- Netlify
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 👨‍💻 Author
-
-Created as part of Codepath WEB103 Week 1 Project - Listicle Part 1
-
----
-
-**Built with ❤️ for entrepreneurs and business leaders**
-=======
-# Codepath_PJ1
->>>>>>> a6a3a3c5cd9d26133f399f5bf49a59b2fa29d212
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
