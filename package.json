@@ -1,0 +1,16 @@
+{
+  "name": "business-tips-listicle",
+  "version": "1.0.0",
+  "description": "A listicle web app for business tips",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "keywords": ["business", "tips", "listicle", "web-app"],
+  "author": "",
+  "license": "ISC"
+}
